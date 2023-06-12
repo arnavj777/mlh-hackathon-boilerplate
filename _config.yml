@@ -17,7 +17,7 @@ url: "HackAustinTX"
 
 # The ability to use custom themes.
 style:
-  theme: "original"
+  theme: "Green"
 
 # This will help you track who's visiting your website.
 tracking:
@@ -29,7 +29,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
+  title:       "Hack AustinTX | 19-20 August 2023"
   description: "Hackathon in Austin, Texas."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -41,7 +41,7 @@ event:
   location:    "Holmdel, NJ, United States"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2023"  # season year
     region: "eu"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
